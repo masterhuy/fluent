@@ -194,6 +194,14 @@
     letter-spacing: 2px;
     line-height: 0.8;
 }
+@media (max-width: 1024px){
+    .pb-right-column h2{
+        line-height: normal;
+    }
+    .product-quantity .add-to-cart{
+        margin-left: 60px !important;
+    }
+}
 #product .product-cover .layer {
 	position:absolute;
 	right:25px;
@@ -921,9 +929,7 @@
     }
     .banner-column img{
         max-width: 100%;
-    }
-    #footer .contact-us{
-        padding:0;
+        width: 100%;
     }
     .page-category .featured-products .product-miniature{
         display: block !important;
@@ -934,9 +940,6 @@
     .page-category .featured-products .products{
         text-align: center;
     } 
-    .banner-column{
-        background: url('../img/columnleft-banner.jpg');
-    }
 }
 @media (max-width: 736px){
     #_mobile_search_filters_clear_all .js-search-filters-clear-all{

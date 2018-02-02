@@ -56,8 +56,8 @@
 				</div>
 			
 				<div class="textnews_h4">
-				<h3>{l s='Fluent Minimalist Sign Up Newsletter' d='Shop.Theme'}</h3>
-				<span>{l s='Subscribe and take 15 percent off on any product' d='Shop.Theme'}</span>
+				<h3>{l s='Newsletter' d='Shop.Theme'}</h3>
+				<span>{l s='Get all the best deals, sales and offers from shop the best.' d='Shop.Theme'}</span>
 				</div>
 				
 				<div class="textnews_h3">
@@ -85,7 +85,7 @@
 						<input class="inputNew form-control grey newsletter-input" id="newsletter-input" type="text" name="email" size="18" value="{$value}" placeholder="{l s='Your email...' d='Shop.Forms.Labels'}" />
 						
 						<button type="submit" name="submitNewsletter" class="newsletter-btn buttonh2 ">
-							<i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+							
 						</button>
 						<button type="submit" name="submitNewsletter" class="newsletter-btn buttonh1  btn-default btn-active btn-effect">
 							{l s='Subscribe' d='Shop.Theme'}
