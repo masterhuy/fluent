@@ -24,253 +24,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home1.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/home1.css">
+      <file leaf-file-name="product-images-modal.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/jms_watch/templates/catalog/_partials/product-images-modal.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="943" column="16" lean-forward="false" selection-start-line="943" selection-start-column="16" selection-end-line="943" selection-end-column="16" />
-              <folding>
-                <marker date="1517219731949" expanded="true" signature="2369:2395" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="2419:2448" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="2476:2504" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="2529:2572" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="2587:2615" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="2642:2685" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="2723:2766" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="2851:2919" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="2938:2958" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="3004:3241" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="3433:3705" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="3737:3799" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="4133:4193" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="4222:4309" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="4339:4361" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="4382:4563" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="4584:4800" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="4828:5147" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="5148:5400" ph="/*...*/" />
-                <marker date="1517219731949" expanded="true" signature="5433:5458" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="5485:5552" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="5499:5525" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="5542:5552" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="7028:7045" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="7028:7153" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="7129:7151" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="7172:7201" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="7234:7418" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="7438:7504" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="7524:7599" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="7630:7682" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="7705:7822" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="7838:7846" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="7868:8020" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="8048:8119" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="8151:8193" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="8221:8293" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="8342:8494" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="8543:8676" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="8734:8773" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="8818:8864" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="9070:9246" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="9447:9488" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="9511:9648" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="9668:9799" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="9904:9953" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="9972:9996" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="10010:10032" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="10050:10073" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="10094:10315" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="10341:10715" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="10753:10851" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="10875:10892" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="10929:11050" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="11076:11174" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="11252:11288" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="11308:11336" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="11364:11385" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="11405:11494" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="11593:11666" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="11683:11781" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="11866:11973" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="12023:12128" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="12181:12288" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="12607:12652" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="12824:12872" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="12984:13032" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13056:13081" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13093:13146" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13175:13198" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13221:13273" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13289:13317" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13352:13401" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13421:13609" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13636:13664" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13687:13862" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13889:13916" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13943:14155" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="13990:14153" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="14182:14392" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="14229:14390" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="14435:14592" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="14634:14692" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="14736:14855" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="14905:14980" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="15039:15092" ph="/*...*/" />
-                <marker date="1517219731949" expanded="true" signature="15117:15202" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="15219:15393" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="15417:15466" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="15486:15522" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="15557:15607" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="15643:15701" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="16016:16072" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="16137:16212" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="16240:16320" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="16346:16369" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="16496:16539" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="16653:16691" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="16727:16749" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="16945:16969" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="17044:17087" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="17109:17163" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="17182:17334" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="17358:17534" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="17551:17599" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="17622:17676" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="17694:17746" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="17770:17828" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="17845:17893" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="17916:17970" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="17998:18140" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="18153:18179" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="18226:18272" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="18283:18302" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="18396:18425" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="18894:19013" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="18919:18951" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="18976:19011" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19098:19141" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19159:19182" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19194:19258" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19284:19318" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19330:19359" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19375:19401" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19418:19446" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19473:19527" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19497:19525" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19553:19836" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19588:19616" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19642:19672" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19690:19834" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19862:21216" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="19905:19971" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="20000:20037" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="20071:20125" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="20159:20194" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="20209:20239" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="20412:20446" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="20473:20501" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="20538:20613" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="20642:20680" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="20726:20828" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="20874:20933" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="21190:21214" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="21243:21526" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="21488:21524" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="21576:21702" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="21619:21647" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="21672:21700" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="21906:21924" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="21942:21962" ph="{...}" />
-                <marker date="1517219731949" expanded="true" signature="22042:22070" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="products-top.tpl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/products-top.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            <state relative-caret-position="544">
+              <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/miniatures/product.tpl">
+      <file leaf-file-name="product-variants.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/jms_watch/templates/catalog/_partials/product-variants.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="58" column="38" lean-forward="true" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+            <state relative-caret-position="272">
+              <caret line="16" column="71" lean-forward="false" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="facets.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/facets.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="62" column="70" lean-forward="true" selection-start-line="62" selection-start-column="70" selection-end-line="62" selection-end-column="70" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#span#0;n#label#0;n#li#0;n#ul#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product-details.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/product-details.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="23" column="67" lean-forward="false" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product-layout-default.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/product-layout-default.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="132" column="25" lean-forward="false" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
-              <folding>
-                <element signature="e#4054#5518#0#HTML" expanded="false" />
-                <element signature="e#5523#7073#0#HTML" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/product.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2013">
-              <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ps_facetedsearch.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_facetedsearch/ps_facetedsearch.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85170">
-              <caret line="5010" column="1" lean-forward="false" selection-start-line="5010" selection-start-column="1" selection-end-line="5010" selection-end-column="1" />
-              <folding>
-                <marker date="1517218214402" expanded="true" signature="27531:27600" ph="{...}" />
-                <marker date="1517218214402" expanded="true" signature="123328:123333" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -279,17 +48,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>../themes/jms_fluent/assets/img/demo/imgmenu1.jpg</find>
-      <find>themes/jms_fluent/assets/img/demo/imgmen1u1.jpg</find>
-      <find>themes/jms_fluent/assets/img/demo/imgmenu1.jpg</find>
-      <find>themes/jms_fluent/assets/img/demo/imgmenu.jpg</find>
-      <find>themes/jms_fluent/assets/img/demo/imgmenu2.jpg</find>
-      <find>top</find>
-      <find>top_</find>
-      <find>top_menu</find>
-      <find>click_menu</find>
-      <find>filters-panel</find>
-      <find>&amp;</find>
       <find>facet-label</find>
       <find>search_filters_wrapper</find>
       <find>filter-box</find>
@@ -299,7 +57,6 @@
       <find>&lt;i class=&quot;material-icons touchspin-up&quot;&gt;&lt;/i&gt;</find>
       <find>&lt;i class=&quot;material-icons touchspin-up</find>
       <find>btn btn-touchspin js-touchspin bootstrap-touchspin-up</find>
-      <find>input-group-btn-vertical</find>
       <find>material-icons touchspin-up</find>
       <find>row product-detail</find>
       <find>Accessories</find>
@@ -309,12 +66,28 @@
       <find>col-lg-6 col-md-6 col-sm-5 col-xs-6 view-mode left clearfix</find>
       <find>col-lg-6 col-md-6 col-sm-5 col-xs- view-mode left clearfix</find>
       <find>col-lg-6 col-md-6 col-sm-5 col-xs-12 view-mode left clearfix</find>
+      <find>&lt;div class=&quot;contact-info&quot;&gt;</find>
+      <find>cat-post-list</find>
+      <find>j</find>
+      <find>jms</find>
+      <find>jms_f</find>
+      <find>jms_flu</find>
+      <find>jms_fluent</find>
+      <find>product-carousel owl-loaded owl-drag owl-carousel owl-theme</find>
+      <find>thumb js-modal-thumb</find>
+      <find>pull-xs-left input-container</find>
+      <find>input-group bootstrap-touchspin</find>
+      <find>input-group-btn-vertical</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>D:\xampp\htdocs\jms_fluent\themes</dir>
       <dir>D:\xampp\htdocs\jms_fluent\themes\jms_fluent\modules</dir>
       <dir>D:\xampp\htdocs\jms_fluent\modules</dir>
       <dir>D:\xampp\htdocs\jms_fluent</dir>
+      <dir>D:\xampp\htdocs\jms_watch</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -335,6 +108,8 @@
         <option value="$PROJECT_DIR$/themes/jms_fluent/templates/catalog/product-layout-default.tpl" />
         <option value="$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/facets.tpl" />
         <option value="$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/products-top.tpl" />
+        <option value="$PROJECT_DIR$/themes/jms_fluent/modules/jmsblog/views/templates/front/category-layout-default.tpl" />
+        <option value="$PROJECT_DIR$/themes/jms_watch/templates/catalog/_partials/product-variants.tpl" />
       </list>
     </option>
   </component>
@@ -366,166 +141,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
+              <option name="myItemId" value="jms_watch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_partials" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jms_fluent" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_partials" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="miniatures" />
+              <option name="myItemId" value="jms_watch" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -653,11 +284,18 @@
       <workItem from="1516940719237" duration="9803000" />
       <workItem from="1517195072462" duration="62000" />
       <workItem from="1517197355578" duration="6436000" />
+      <workItem from="1517307781152" duration="66000" />
+      <workItem from="1517450302780" duration="403000" />
+      <workItem from="1517551643877" duration="1165000" />
+      <workItem from="1517554710714" duration="64000" />
+      <workItem from="1517827042168" duration="279000" />
+      <workItem from="1518151650459" duration="1124000" />
+      <workItem from="1518162869673" duration="636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51987000" />
+    <option name="totallyTimeSpent" value="55724000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -671,17 +309,17 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24786781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23454158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -701,179 +339,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="25" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="47" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/_partials/head.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/_partials/header.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_shoppingcart/ps_shoppingcart.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/_partials/stylesheets.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/home1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmsajaxsearch/views/templates/hook/jmsajaxsearch.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_shoppingcart/ps_shoppingcart.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/home1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6409">
-          <caret line="377" column="1" lean-forward="true" selection-start-line="377" selection-start-column="1" selection-end-line="377" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/home1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6375">
-          <caret line="375" column="20" lean-forward="false" selection-start-line="375" selection-start-column="20" selection-end-line="375" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/img/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmsajaxsearch/views/templates/hook/search-ajax.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmsajaxsearch/views/templates/hook/jmsajaxsearch-left.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/layouts/layout-full-width.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/layouts/layout-both-columns.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-640">
-          <caret line="45" column="24" lean-forward="true" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/layouts/layout-content-only.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_shoppingcart/ps_shoppingcart.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/_partials/stylesheets.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/_partials/header.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/_partials/head.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="47" column="25" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="47" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmsajaxsearch/views/templates/hook/jmsajaxsearch.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="111" lean-forward="false" selection-start-line="30" selection-start-column="111" selection-end-line="30" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/home1.css" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/demo.css" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/home1.css" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/demo.css" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/img/logo.png" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmsajaxsearch/views/templates/hook/search-ajax.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmsajaxsearch/views/templates/hook/jmsajaxsearch-left.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/layouts/layout-full-width.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/layouts/layout-both-columns.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/layouts/layout-content-only.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_shoppingcart/ps_shoppingcart.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/_partials/stylesheets.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/_partials/header.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/_partials/head.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/pe-icon-7-stroke/css/pe-icon-7-stroke.css" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmsajaxsearch/views/templates/hook/jmsajaxsearch.tpl" />
     <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -881,41 +362,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/cache/prod/smarty/compile/d5/f8/f5/d5f8f570180f74d1dbdd1a1d2af0445e90a6650c.module.ps_customersignin.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="115" column="54" lean-forward="false" selection-start-line="115" selection-start-column="54" selection-end-line="115" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_languageselector/ps_languageselector.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_customersignin/ps_customersignin.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="75" column="21" lean-forward="false" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmspagebuilder/views/templates/hook/addonsocial.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="49" lean-forward="false" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="84" column="176" lean-forward="false" selection-start-line="84" selection-start-column="176" selection-end-line="84" selection-end-column="176" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/cache/prod/smarty/compile/d5/f8/f5/d5f8f570180f74d1dbdd1a1d2af0445e90a6650c.module.ps_customersignin.tpl.php" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_languageselector/ps_languageselector.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_customersignin/ps_customersignin.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmspagebuilder/views/templates/hook/addonsocial.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl" />
     <entry file="file://$PROJECT_DIR$/modules/jmspagebuilder/jmspagebuilder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6528">
@@ -930,13 +381,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/cms.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/cms.css" />
     <entry file="file://$PROJECT_DIR$/modules/jmspagebuilder/views/templates/hook/addonsocial.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -951,59 +396,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/product.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/product-activation.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/sort-orders.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_facetedsearch/ps_facetedsearch.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85170">
-          <caret line="5010" column="1" lean-forward="false" selection-start-line="5010" selection-start-column="1" selection-end-line="5010" selection-end-column="1" />
-          <folding>
-            <marker date="1517218214402" expanded="true" signature="27531:27600" ph="{...}" />
-            <marker date="1517218214402" expanded="true" signature="123328:123333" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/_dev/js/product.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="87" column="3" lean-forward="true" selection-start-line="87" selection-start-column="3" selection-end-line="87" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/product.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/product-activation.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/sort-orders.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/ps_facetedsearch/ps_facetedsearch.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/custom.css" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/_dev/js/product.js" />
     <entry file="file://$PROJECT_DIR$/themes/classic/_dev/js/listing.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="605">
           <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1011,220 +413,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/product.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2013">
+        <state relative-caret-position="2397">
           <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/product-details.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/home1.css" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/miniatures/product.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/facets.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/product-layout-default.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmsblog/views/templates/front/category-layout-2columns.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/products-top.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmsblog/views/templates/front/categories-layout-default.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmsblog/views/templates/front/category-layout-default.tpl" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/modules/jmsblog/views/templates/front/category-layout-3columns.tpl" />
+    <entry file="file://$PROJECT_DIR$/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/jms_fluent.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/cache/prod/smarty/compile/f8/2d/dd/f82dddf1f4eb4fa5b1621e3e5a8b47e58f011dec.file.products.tpl.php" />
+    <entry file="file://$PROJECT_DIR$/themes/jms_watch/templates/catalog/_partials/product-images-modal.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/product-layout-default.tpl">
+    <entry file="file://$PROJECT_DIR$/themes/jms_watch/templates/catalog/_partials/product-variants.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="132" column="25" lean-forward="false" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
-          <folding>
-            <element signature="e#4054#5518#0#HTML" expanded="false" />
-            <element signature="e#5523#7073#0#HTML" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/product-details.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="23" column="67" lean-forward="false" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/assets/css/home1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="943" column="16" lean-forward="false" selection-start-line="943" selection-start-column="16" selection-end-line="943" selection-end-column="16" />
-          <folding>
-            <marker date="1517219731949" expanded="true" signature="2369:2395" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="2419:2448" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="2476:2504" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="2529:2572" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="2587:2615" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="2642:2685" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="2723:2766" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="2851:2919" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="2938:2958" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="3004:3241" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="3433:3705" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="3737:3799" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="4133:4193" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="4222:4309" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="4339:4361" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="4382:4563" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="4584:4800" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="4828:5147" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="5148:5400" ph="/*...*/" />
-            <marker date="1517219731949" expanded="true" signature="5433:5458" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="5485:5552" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="5499:5525" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="5542:5552" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="7028:7045" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="7028:7153" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="7129:7151" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="7172:7201" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="7234:7418" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="7438:7504" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="7524:7599" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="7630:7682" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="7705:7822" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="7838:7846" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="7868:8020" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="8048:8119" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="8151:8193" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="8221:8293" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="8342:8494" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="8543:8676" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="8734:8773" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="8818:8864" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="9070:9246" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="9447:9488" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="9511:9648" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="9668:9799" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="9904:9953" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="9972:9996" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="10010:10032" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="10050:10073" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="10094:10315" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="10341:10715" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="10753:10851" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="10875:10892" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="10929:11050" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="11076:11174" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="11252:11288" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="11308:11336" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="11364:11385" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="11405:11494" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="11593:11666" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="11683:11781" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="11866:11973" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="12023:12128" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="12181:12288" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="12607:12652" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="12824:12872" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="12984:13032" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13056:13081" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13093:13146" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13175:13198" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13221:13273" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13289:13317" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13352:13401" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13421:13609" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13636:13664" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13687:13862" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13889:13916" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13943:14155" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="13990:14153" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="14182:14392" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="14229:14390" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="14435:14592" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="14634:14692" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="14736:14855" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="14905:14980" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="15039:15092" ph="/*...*/" />
-            <marker date="1517219731949" expanded="true" signature="15117:15202" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="15219:15393" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="15417:15466" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="15486:15522" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="15557:15607" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="15643:15701" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="16016:16072" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="16137:16212" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="16240:16320" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="16346:16369" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="16496:16539" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="16653:16691" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="16727:16749" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="16945:16969" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="17044:17087" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="17109:17163" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="17182:17334" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="17358:17534" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="17551:17599" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="17622:17676" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="17694:17746" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="17770:17828" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="17845:17893" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="17916:17970" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="17998:18140" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="18153:18179" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="18226:18272" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="18283:18302" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="18396:18425" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="18894:19013" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="18919:18951" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="18976:19011" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19098:19141" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19159:19182" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19194:19258" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19284:19318" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19330:19359" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19375:19401" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19418:19446" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19473:19527" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19497:19525" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19553:19836" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19588:19616" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19642:19672" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19690:19834" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19862:21216" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="19905:19971" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="20000:20037" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="20071:20125" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="20159:20194" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="20209:20239" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="20412:20446" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="20473:20501" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="20538:20613" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="20642:20680" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="20726:20828" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="20874:20933" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="21190:21214" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="21243:21526" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="21488:21524" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="21576:21702" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="21619:21647" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="21672:21700" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="21906:21924" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="21942:21962" ph="{...}" />
-            <marker date="1517219731949" expanded="true" signature="22042:22070" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/miniatures/product.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="58" column="38" lean-forward="true" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/facets.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="62" column="70" lean-forward="true" selection-start-line="62" selection-start-column="70" selection-end-line="62" selection-end-column="70" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#span#0;n#label#0;n#li#0;n#ul#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/jms_fluent/templates/catalog/_partials/products-top.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        <state relative-caret-position="272">
+          <caret line="16" column="71" lean-forward="false" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
           <folding />
         </state>
       </provider>
